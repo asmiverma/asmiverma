@@ -103,14 +103,6 @@ interests:
 
 ---
 
-## 📄 Publication
-
-**Exploring the Effectiveness of Fundus Image Enhancement for Diabetic Retinopathy Classification**
-
-Research exploring medical image enhancement techniques to improve diabetic retinopathy classification accuracy.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
